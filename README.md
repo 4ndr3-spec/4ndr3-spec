@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @4ndr3-spec - André Alves
-- 👀 I’m interested in ... Desenvolvimento Android
-- 🌱 I’m currently learning ... Desenvolvimento Android
+- 👋 Hi, I’m andreAlvesCarvalhoJr - André Alves
+- 👀 I’m interested in ... Developer Android
+- 🌱 I’m currently learning ... Developer Android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
